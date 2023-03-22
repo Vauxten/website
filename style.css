@@ -1,0 +1,28 @@
+.title {
+  font-family: Comic Sans MS;
+}
+
+html, body {
+  background-color: rgb(255, 254, 218);
+}
+
+h1, p {
+  font-family: Comic Sans MS;
+  font-size: 200%;
+  }
+  
+  a {
+    color: rgb(255, 254, 218);
+    text-decoration: none;
+    font-family: sans-serif;
+    size: 200px;
+    font-size: 30px
+  }
+  a:hover {
+color: rgb(138, 138, 138)
+  }
+
+  .dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
